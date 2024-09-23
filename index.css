@@ -16,7 +16,7 @@
 .header-primerosCuadros-logo {
   background-color: red;
   width: 25rem;
-  height: 3rem;
+  height: 4rem;
   margin-left: 3rem;
   margin-right: 2rem;
   padding-left: 1rem;
@@ -29,8 +29,8 @@
 }
 .header-primerosCuadros-nav {
   background-color: red;
-  width: 55rem;
-  height: 3rem;
+  width: 90rem;
+  height: 4rem;
   margin-left: 2rem;
   padding-right: 15rem;
   padding-left: 1rem;
@@ -38,8 +38,8 @@
 }
 .header-primerosCuadros-social {
   background-color: red;
-  width: 25rem;
-  height: 3rem;
+  width: 20rem;
+  height: 4rem;
   margin-left: 3rem;
   margin-right: 3rem;
   padding-left: 1rem;
@@ -57,15 +57,15 @@
 }
 .header-primerosCuadros-banner {
   background-color: yellow;
-  height: 1rem;
-  width: 100%;
-  text-align: start;
+  height: 4rem;
+  width: 105rem;
+  align-items: start;
   margin-top: 0.5rem;
   margin-bottom: 2rem;
-  margin-left: 2rem;
+  margin-left: 5rem;
   padding-left: 1rem;
   padding-bottom: 3rem;
-  font-size: 2rem;
+  font-size: 3rem;
   border: 0;
 }
 
@@ -121,4 +121,3 @@
   margin: 2rem;
   padding: 1rem;
 }
-/*Media query*/
