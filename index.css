@@ -13,13 +13,7 @@
   margin: 1rem;
 }
 .header-primerosCuadros-logo {
-  background-color: red;
-  width: 5rem;
-  height: 2rem;
-
-  padding-right: 10rem;
-  padding-left: 1rem;
-  padding-top: 1rem;
+  background-color: rgb(116, 90, 90);
 }
 .header-primerosCuadros-nav {
   background-color: red;
