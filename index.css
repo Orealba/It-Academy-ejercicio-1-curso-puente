@@ -1,37 +1,50 @@
-.header-container {
+.header-ejercicio {
   max-width: 100%;
   height: 100%;
   background-color: black;
   padding: 1rem;
+  margin-top: 1rem;
 }
 .header-primerosRectangulo {
   align-items: center;
-  justify-content: center;
+
   display: flex;
   height: 6rem;
   background-color: rgb(64, 59, 73);
   margin: 1rem;
 }
 .header-primerosCuadros-logo {
-  background-color: rgb(116, 90, 90);
+  background-color: red;
+  width: 25rem;
+  height: 3rem;
+  margin-left: 3rem;
+  margin-right: 2rem;
+  padding-left: 1rem;
+  text-align: start;
+  border: 0;
+}
+.header-primerosCuadros-logo:hover {
+  background-color: rgb(255, 46, 213);
+  transform: scale(1.2);
 }
 .header-primerosCuadros-nav {
   background-color: red;
   width: 55rem;
-  height: 2rem;
+  height: 3rem;
   margin-left: 2rem;
   padding-right: 15rem;
   padding-left: 1rem;
-  padding-top: 1rem;
+  border: 0;
 }
 .header-primerosCuadros-social {
   background-color: red;
-  width: 5rem;
-  height: 2rem;
-  margin-left: 2rem;
-  padding-right: 10rem;
+  width: 25rem;
+  height: 3rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
   padding-left: 1rem;
-  padding-top: 1rem;
+  text-align: start;
+  border: 0;
 }
 
 .header-segundoRectangulo {
@@ -44,16 +57,16 @@
 }
 .header-primerosCuadros-banner {
   background-color: yellow;
-  height: 2rem;
-
-  margin-left: 2rem;
-  margin-right: 2rem;
+  height: 1rem;
+  width: 100%;
+  text-align: start;
   margin-top: 0.5rem;
-
-  padding-left: 2rem;
-  padding-top: 1rem;
-  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+  padding-left: 1rem;
+  padding-bottom: 3rem;
   font-size: 2rem;
+  border: 0;
 }
 
 .body-container {
@@ -108,3 +121,4 @@
   margin: 2rem;
   padding: 1rem;
 }
+/*Media query*/
