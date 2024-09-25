@@ -40,7 +40,7 @@
 
   .body-rectangulo-gris {
     height: 28rem;
-    width: 20rem;
+    width: 21.5rem;
     padding-top: 0.1rem;
   }
 
@@ -52,7 +52,7 @@
     padding-right: 5rem;
     margin-left: 2rem;
     margin-top: 2rem;
-    width: 16rem;
+    width: 18rem;
   }
 
   .body-rectangulo-azul-claro {
@@ -60,12 +60,12 @@
     padding-right: 5rem;
     margin-left: 2rem;
     margin-top: 2rem;
-    width: 16rem;
+    width: 18rem;
   }
 
   .body-rectangulo-rojo-publi {
     height: 10rem;
-    width: 20rem;
+    width: 21.5rem;
     margin-top: 1rem;
     margin-left: 2rem;
     padding-top: 1rem;
@@ -75,14 +75,12 @@
     margin-top: 1rem;
     margin-bottom: 1rem;
     padding: 0.5rem;
-    width: 16rem;
+    width: 18rem;
   }
   .body-footer-rectangulo-negro {
     background-color: rgb(183, 178, 178);
 
-    margin-left: 0.8rem;
-    margin-right: 0.8rem;
-    padding-left: 3rem;
+    padding-left: 2rem;
     padding-right: 3rem;
     padding-top: 1rem;
   }
@@ -99,7 +97,7 @@
 /* tablet*/
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .header-ejercicio {
-    background-color: rgb(135, 117, 117);
+    background-color: rgb(203, 125, 125);
   }
   .header-primerosRectangulo {
     display: block;
@@ -133,7 +131,7 @@
   }
 
   .body-container {
-    background-color: rgb(135, 117, 117);
+    background-color: rgb(203, 125, 125);
     display: block;
   }
 
@@ -141,7 +139,7 @@
     height: 16rem;
     width: 43rem;
     padding-top: 0.1rem;
-    margin-left: 1rem;
+    margin-left: 2rem;
     padding-top: 1rem;
   }
 
@@ -169,7 +167,7 @@
     height: 10rem;
     width: 43rem;
     margin-top: 1rem;
-    margin-left: 1rem;
+    margin-left: 2rem;
     padding-top: 1rem;
   }
   .body-rectangulo-rojo-publi-amarillos {
@@ -180,23 +178,20 @@
     width: 39rem;
   }
   .body-footer-rectangulo-negro {
-    background-color: rgb(135, 117, 117);
+    background-color: rgb(203, 125, 125);
 
-    margin-left: 0.8rem;
-    margin-right: 0.8rem;
     padding-left: 2rem;
-    
+
     padding-top: 1rem;
   }
   .body-footer-rectangulo-beige {
     background-color: rgb(233, 233, 153);
-    width: 42.5rem;
+    width: 42rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
     margin-top: 1rem;
     padding-left: 1rem;
     padding-right: 0rem;
-    margin-left: 0rem;
-    
+    margin-left: 0.5rem;
   }
 }
