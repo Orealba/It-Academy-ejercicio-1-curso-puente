@@ -1,0 +1,97 @@
+/*query mobile*/
+@media screen and (max-width: 430px) {
+  .header-ejercicio {
+    background-color: rgb(183, 178, 178);
+  }
+  .header-primerosRectangulo {
+    display: block;
+
+    height: 13rem;
+  }
+  .header-primerosCuadros-logo {
+    width: 18rem;
+    height: 3rem;
+    margin-left: 1.8rem;
+
+    margin-top: 1rem;
+  }
+  .header-primerosCuadros-nav {
+    width: 18rem;
+    height: 3rem;
+    margin-left: 1.8rem;
+    margin-top: 1rem;
+  }
+  .header-primerosCuadros-social {
+    width: 18rem;
+    height: 3rem;
+    margin-left: 1.8rem;
+    margin-top: 1rem;
+  }
+  .header-primerosCuadros-banner {
+    background-color: rgb(239, 239, 99);
+    width: 18rem;
+    margin-left: 1rem;
+  }
+
+  .body-container {
+    background-color: rgb(183, 178, 178);
+    display: block;
+  }
+
+  .body-rectangulo-gris {
+    height: 28rem;
+    width: 20rem;
+    padding-top: 0.1rem;
+  }
+
+  .body-rectangulos-azules {
+    display: block;
+  }
+  .body-rectangulos-azules-articles {
+    padding-top: 0.5rem;
+    padding-right: 5rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    width: 16rem;
+  }
+
+  .body-rectangulo-azul-claro {
+    padding-top: 0.5rem;
+    padding-right: 5rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    width: 16rem;
+  }
+
+  .body-rectangulo-rojo-publi {
+    height: 10rem;
+    width: 20rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    padding-top: 1rem;
+  }
+  .body-rectangulo-rojo-publi-amarillos {
+    text-align: start;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    width: 16rem;
+  }
+  .body-footer-rectangulo-negro {
+    background-color: rgb(183, 178, 178);
+
+    margin-left: 0.8rem;
+    margin-right: 0.8rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1rem;
+  }
+  .body-footer-rectangulo-beige {
+    background-color: rgb(233, 233, 153);
+    width: 20rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 1rem;
+    padding-left: 1rem;
+  }
+}
